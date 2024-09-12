@@ -1,4 +1,4 @@
-AgramoniaWordPressPlugin
+<h1>AgramoniaWordPressPlugin</h1> <br>
 The Agramonia WordPress Plugin allows users to easily embed a custom widget from Agramonia into their WordPress site using a generated iframe link. This plugin simplifies the process of integrating Agramonia's widget, providing users with a seamless experience to display custom content.
 
 Features

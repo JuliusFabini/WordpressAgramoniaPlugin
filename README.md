@@ -2,9 +2,11 @@
 The Agramonia WordPress Plugin allows users to easily embed a custom widget from Agramonia into their WordPress site using a generated iframe link. This plugin simplifies the process of integrating Agramonia's widget, providing users with a seamless experience to display custom content.
 
 <h3>Features</h3>
-Simple Integration: Easily integrate the Agramonia widget into your WordPress site.
-Customizable: Adjust the size and settings of the widget directly from your WordPress admin panel.
-Responsive Design: Ensures that the widget looks great on all devices.
+<ul>
+  <li>Simple Integration: Easily integrate the Agramonia widget into your WordPress site.</li>
+  <li>Customizable: Adjust the size and settings of the widget directly from your WordPress admin panel.</li>
+  <li>Responsive Design: Ensures that the widget looks great on all devices.</li>
+</ul>
 
 <h3>Installation</h3>
 Download the Plugin:
